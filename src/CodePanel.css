@@ -1,0 +1,14 @@
+   
+.center {
+    /* background-color: rgb(44, 44, 44); */
+    text-align: center;
+}
+.code {
+    border-radius: 5px;
+    padding-left: 10px;
+    background-color: rgb(44, 44, 44);
+    overflow-y: auto;
+    height: 30vh;
+    color: white;
+    font-family: monospace;
+}
